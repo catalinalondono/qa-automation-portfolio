@@ -1,0 +1,11 @@
+
+trigger:
+  - main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+  - script: echo "QA Automation Portfolio Pipeline Running"
+    displayName: "Run basic pipeline"
+
