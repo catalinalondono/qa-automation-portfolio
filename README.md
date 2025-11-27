@@ -1,38 +1,133 @@
-# QA Automation Portfolio
+QA Automation Portfolio – Catalina Londoño
 
-This repository contains sample automation projects and documentation to demonstrate my skills as a QA Automation Engineer.
+Este repositorio reúne ejemplos de automatización que he desarrollado como Analista de Pruebas Automáticas, utilizando diferentes herramientas, lenguajes y frameworks para pruebas E2E, frontend, backend y pipelines CI/CD.
 
-## Repository structure
+Mi objetivo es mostrar mis habilidades técnicas, mi manera de estructurar proyectos y mi capacidad para crear automatización mantenible, modular y escalable.
 
+Tecnologías que manejo:
 
-## About me
+Java
 
-**Name:** Sara Catalina Londoño Vélez  
-**Role:** QA Automation Engineer / Test Analyst  
-**Location:** Pereira, Colombia
+Cucumber + SerenityBDD (Screenplay Pattern)
 
-## Skills & Tools
+Playwright (JavaScript/TypeScript)
 
-- Test automation: Playwright, Serenity BDD, Screenplay, Cucumber  
-- Languages: Java, TypeScript  
-- API testing: Karate  
-- CI/CD: Azure DevOps pipelines  
-- Tools: Git, IntelliJ IDEA, VSCode, Postman, JMeter, DBeaver  
-- Basics: SQL, iSeries/AS400 (structure examples)
+Pipelines CI/CD (Azure DevOps)
 
-## Projects (short)
+iSeries Automation (con Cucumber + Serenity)
 
-- **Playwright Web Automation** — UI tests with Playwright (TypeScript).  
-- **Serenity + Screenplay** — Java automation using Serenity BDD and Screenplay.  
-- **API Karate** — BDD-style API tests with Karate.  
-- **iSeries Example** — Project structure and example feature (no real connection).
-
-## How to run (examples)
-
-### Playwright (example)
-```bash
-cd automation-examples/playwright-web-example
-npm install
-npx playwright test
+SQL básico
 
 
+qa-automation-portfolio/
+│
+├── automation-examples/
+│   ├── serenity-screenplay/
+│   ├── playwright/
+│   ├── iseries/
+│   └── karate/   (pendiente)
+│
+├── docs/
+│   └── evidence/
+│
+└── azure-pipelines/
+    └── azure-pipelines.yml
+
+
+1. Serenity Screenplay – Pruebas E2E Frontend
+
+Ruta:
+automation-examples/serenity-screenplay/
+
+Incluye:
+
+Proyecto Java con Cucumber + Serenity
+
+Patrón Screenplay
+
+Page Objects y Tasks modulares
+
+Feature files claros y reutilizables
+
+Ejecución local y headless
+
+Objetivo: demostrar mi experiencia fuerte en automatización E2E frontend.
+
+
+2. Playwright – Pruebas de Aceptación Frontend
+
+Ruta:
+automation-examples/playwright/
+
+Incluye:
+
+Pruebas con JavaScript/TypeScript
+
+Selectores robustos
+
+Fixtures reutilizables
+
+Hooks para beforeEach / afterEach
+
+Screenshots de evidencia
+
+
+
+3. iSeries – Automatización con Serenity + Cucumber
+
+Ruta:
+automation-examples/iseries/
+
+Incluye:
+
+Proyecto Java
+
+Cucumber + Serenity
+
+Conexión simulada a aplicaciones AS400
+
+Steps organizados
+
+Ejemplo simple para demostrar comprensión básica del proceso
+
+
+
+Estado actual del portafolio
+
+✔ Estructura creada
+✔ Primeros proyectos agregados
+✔ Archivo YAML listo (no se ejecuta, solo es decorativo)
+⬜ Agregar más pruebas automatizadas
+⬜ Mejorar documentación en cada carpeta
+⬜ Añadir proyecto backend con Karate
+
+
+
+
+Sobre mí
+
+Soy Analista de Pruebas Automatizadas con 4 años de experiencia en:
+
+Automatización E2E
+
+Pruebas de aceptación
+
+Pruebas exploratorias
+
+Ejecución de pipelines
+
+Manejo de Azure DevOps
+
+Automatización de frontend
+
+Buenas prácticas de automatización
+
+Mi objetivo es seguir creciendo como QA Automation Engineer y fortalecer mi dominio técnico.
+
+
+Contacto
+
+Email: jmc120296@gmail.com
+Cel: 3205170420
+
+GitHub: github.com/catalinalondono
