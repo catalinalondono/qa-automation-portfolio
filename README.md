@@ -29,7 +29,7 @@ Ejecución local y headless
 
 Objetivo: demostrar mi experiencia fuerte en automatización E2E frontend.
 
-#🧪 2. Playwright – Pruebas de Aceptación Frontend
+# 🧪 2. Playwright – Pruebas de Aceptación Frontend
 
 Ruta:
 automation-examples/frontend-playwright/
@@ -47,7 +47,7 @@ Hooks para beforeEach / afterEach
 Screenshots de evidencia
 
 
-#3. iSeries – Automatización con Serenity + Cucumber
+# 🧪3. iSeries – Automatización con Serenity + Cucumber
 
 Ruta:
 automation-examples/iseries/
@@ -66,7 +66,7 @@ Ejemplo simple para demostrar comprensión básica del proceso
 
 
 
-#Sobre mí
+# Sobre mí
 
 Soy Analista de Pruebas Automatizadas con 4 años de experiencia en:
 
@@ -86,7 +86,7 @@ Buenas prácticas de automatización
 
 Mi objetivo es seguir creciendo como QA Automation Engineer y fortalecer mi dominio técnico.
 
-📬 Contacto
+# 📬 Contacto
 
 Email: jmc120296@gmail.com
 
